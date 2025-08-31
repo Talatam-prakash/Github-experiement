@@ -30,7 +30,7 @@ class BinarySearch:
 
 # Example usage:
 arr = [1,10,22,34,46,50]
-target = 50
+target = 1
 result = BinarySearch.binary_search(arr, target)
 print(f"Element found at index: {result}" if result != -1 else "Element not found")
 
