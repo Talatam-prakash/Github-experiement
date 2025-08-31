@@ -1,1 +1,0 @@
-Linear search, also known as sequential search, is a straightforward algorithm used to find a specific element within a list or array. It operates by examining each element in the collection one by one, starting from the beginning, until the desired element is found or the end of the list is reached. 
