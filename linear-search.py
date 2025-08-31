@@ -10,6 +10,11 @@ class LinearSearch:
 
     Returns:
     int: The index of the target element if found, otherwise -1.
+    Example:
+    >>> arr = [4, 2, 3, 5, 1]
+    >>> target = 5
+    >>> LinearSearch.linear_search(arr, target)
+    
     """ 
     def linear_search(arr,target):
 
